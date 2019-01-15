@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\12_collections\bin\Debug\12_collections.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\12_collections\bin\Debug\12_collections.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\12_collections\bin\Debug\12_collections.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\12_collections\obj\Debug\12_collections.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\12_collections\obj\Debug\12_collections.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\12_collections\obj\Debug\12_collections.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\12_collections\obj\Debug\12_collections.csprojAssemblyReference.cache

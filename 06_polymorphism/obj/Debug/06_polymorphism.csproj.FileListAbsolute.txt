@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\06_polymorphism\bin\Debug\06_polymorphism.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\06_polymorphism\bin\Debug\06_polymorphism.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\06_polymorphism\bin\Debug\06_polymorphism.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\06_polymorphism\obj\Debug\06_polymorphism.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\06_polymorphism\obj\Debug\06_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\06_polymorphism\obj\Debug\06_polymorphism.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\06_polymorphism\obj\Debug\06_polymorphism.pdb

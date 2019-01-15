@@ -1,0 +1,6 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\15_hashsets\bin\Debug\15_hashsets.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\15_hashsets\bin\Debug\15_hashsets.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\15_hashsets\bin\Debug\15_hashsets.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\15_hashsets\obj\Debug\15_hashsets.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\15_hashsets\obj\Debug\15_hashsets.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\15_hashsets\obj\Debug\15_hashsets.pdb

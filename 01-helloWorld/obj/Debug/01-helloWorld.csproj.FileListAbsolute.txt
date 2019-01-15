@@ -1,0 +1,6 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\01-helloWorld\bin\Debug\01-helloWorld.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\01-helloWorld\bin\Debug\01-helloWorld.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\01-helloWorld\bin\Debug\01-helloWorld.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\01-helloWorld\obj\Debug\01-helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\01-helloWorld\obj\Debug\01-helloWorld.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\01-helloWorld\obj\Debug\01-helloWorld.pdb

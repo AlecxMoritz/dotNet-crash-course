@@ -1,0 +1,6 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\13_lists\obj\Debug\13_lists.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\13_lists\bin\Debug\13_lists.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\13_lists\bin\Debug\13_lists.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\13_lists\bin\Debug\13_lists.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\13_lists\obj\Debug\13_lists.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\13_lists\obj\Debug\13_lists.pdb

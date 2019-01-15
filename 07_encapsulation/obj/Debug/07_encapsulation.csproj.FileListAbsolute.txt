@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\07_encapsulation\bin\Debug\07_encapsulation.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\07_encapsulation\bin\Debug\07_encapsulation.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\07_encapsulation\bin\Debug\07_encapsulation.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\07_encapsulation\obj\Debug\07_encapsulation.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\07_encapsulation\obj\Debug\07_encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\07_encapsulation\obj\Debug\07_encapsulation.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\07_encapsulation\obj\Debug\07_encapsulation.pdb

@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\02-classes\bin\Debug\02-classes.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\02-classes\bin\Debug\02-classes.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\02-classes\bin\Debug\02-classes.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\02-classes\obj\Debug\02-classes.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\02-classes\obj\Debug\02-classes.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\02-classes\obj\Debug\02-classes.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\02-classes\obj\Debug\02-classes.pdb

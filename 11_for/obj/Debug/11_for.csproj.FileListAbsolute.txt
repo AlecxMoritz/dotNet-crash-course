@@ -1,0 +1,6 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\11_for\bin\Debug\11_for.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\11_for\bin\Debug\11_for.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\11_for\bin\Debug\11_for.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\11_for\obj\Debug\11_for.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\11_for\obj\Debug\11_for.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\11_for\obj\Debug\11_for.pdb

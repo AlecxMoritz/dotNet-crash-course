@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\10_interfacesTwo\bin\Debug\10_interfacesTwo.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\10_interfacesTwo\bin\Debug\10_interfacesTwo.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\10_interfacesTwo\bin\Debug\10_interfacesTwo.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\10_interfacesTwo\obj\Debug\10_interfacesTwo.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\10_interfacesTwo\obj\Debug\10_interfacesTwo.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\10_interfacesTwo\obj\Debug\10_interfacesTwo.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\10_interfacesTwo\obj\Debug\10_interfacesTwo.pdb

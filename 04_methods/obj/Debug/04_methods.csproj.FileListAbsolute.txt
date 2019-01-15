@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\04_methods\obj\Debug\04_methods.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\04_methods\obj\Debug\04_methods.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\04_methods\bin\Debug\04_methods.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\04_methods\bin\Debug\04_methods.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\04_methods\bin\Debug\04_methods.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\04_methods\obj\Debug\04_methods.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\04_methods\obj\Debug\04_methods.pdb

@@ -1,0 +1,7 @@
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\03_constructors\bin\Debug\03_constructors.exe.config
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\03_constructors\bin\Debug\03_constructors.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\03_constructors\bin\Debug\03_constructors.pdb
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\03_constructors\obj\Debug\03_constructors.csprojAssemblyReference.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\03_constructors\obj\Debug\03_constructors.csproj.CoreCompileInputs.cache
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\03_constructors\obj\Debug\03_constructors.exe
+C:\Users\hanel\Documents\dotNetProjects\01-dotNet_crashCourse\03_constructors\obj\Debug\03_constructors.pdb
